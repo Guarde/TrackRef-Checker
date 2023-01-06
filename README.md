@@ -8,5 +8,4 @@ To use it just drop either of the files in your CustomSongs folder and execute i
 It will then go through your custom songs and save any duplicates it finds to a "trackRefs.txt" in the same folder
 
 Disclaimer:
-It's not pretty but it works :D 
-o.o did someone remove them?
+It's not pretty but it works :D
